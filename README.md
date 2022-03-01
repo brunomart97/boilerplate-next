@@ -30,5 +30,5 @@ Your project will be ready to be developed with the best practices and the most 
   <img align="center" alt="css" height="40" width="40" src="https://prettier.io/icon.png" />
   <img align="center" alt="css" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/102/102735.png" />
   <img align="center" alt="css" height="40" width="40" src="https://editorconfig.org/logo.png" />
-  <img align="center" alt="css" height="40" width="40" src="https://styled-components.com/logo.png" />
+  <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 </div>
