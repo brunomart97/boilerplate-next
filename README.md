@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="https://github.com/brunomart97">
+    <img alt="Advanced Next" src="https://github.com/brunomart97/boilerplate-next/blob/master/public/img/logo.svg" width="75" />
+  </a>
+</p>
+<h1 align="center">
+  A advanced project starter to work with Next
+</h1>
 
-## Getting Started
+## Getting started
 
-First, run the development server:
+**To create your project using this boilerplate, run the following command in your terminal:**
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ yarn create next-app -e https://github.com/brunomart97/boilerplate-next
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+After running the command, you will be asked to enter the name of your project.<br/>
+Your project will be ready to be developed with the best practices and the most advanced technologies.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Technologies
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div style="display: inline_block">
+  <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="css" height="40" width="40" src="https://testing-library.com/img/octopus-64x64.png" />
+  <img align="center" alt="css" height="40" width="40" src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" />
+  <img align="center" alt="css" height="40" width="40" src="https://prettier.io/icon.png" />
+  <img align="center" alt="css" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/102/102735.png" />
+  <img align="center" alt="css" height="40" width="40" src="https://editorconfig.org/logo.png" />
+  <img align="center" alt="css" height="40" width="40" src="https://styled-components.com/logo.png" />
+</div>
