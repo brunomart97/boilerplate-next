@@ -7,12 +7,12 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Advanced React - Boilerplate</title>
-        <link rel="shortcut icon" href="/img/favicon.ico" />
-        <link rel="apple-touch-icon" href="/img/favicon.ico" />
+        <title>Advanced Next - Boilerplate</title>
+        <link rel="shortcut icon" href="/img/logo.svg" />
+        <link rel="apple-touch-icon" href="/img/logo.svg" />
         <meta
           name="description"
-          content="A simple project starter to work with TypeScript, React, NextJS and Styled Components"
+          content="A simple project starter to work with TypeScript, NextJS, ReactJS and Styled Components"
         />
       </Head>
       <GlobalStyles />
