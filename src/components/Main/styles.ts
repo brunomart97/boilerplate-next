@@ -8,8 +8,8 @@ export const Wrapper = styled.main`
   text-align: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 `
 
 export const Logo = styled.img`
@@ -22,7 +22,38 @@ export const Title = styled.h1`
   margin-bottom: 2rem;
 `
 
-export const Description = styled.h2`
+export const Description = styled.p`
   font-size: 2rem;
   font-weight: 400;
+  margin-bottom: 2rem;
+`
+
+export const LinkContainer = styled.div`
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+`
+
+export const Link = styled.a`
+  margin: 1rem;
+  text-decoration: none;
+`
+
+export const LinkBox = styled.div`
+  width: 20rem;
+  height: 7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+
+  &:hover {
+    border-color: #000;
+  }
 `

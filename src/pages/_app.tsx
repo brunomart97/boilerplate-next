@@ -12,7 +12,7 @@ function App({ Component, pageProps }: AppProps) {
         <link rel="apple-touch-icon" href="/img/logo.svg" />
         <meta
           name="description"
-          content="A simple project starter to work with TypeScript, NextJS, ReactJS and Styled Components"
+          content="A advanced project starter to work with Next"
         />
       </Head>
       <GlobalStyles />

@@ -14,14 +14,14 @@ exports[`<Main /> should render the heading 1`] = `
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .c1 {
@@ -37,6 +37,58 @@ exports[`<Main /> should render the heading 1`] = `
 .c3 {
   font-size: 2rem;
   font-weight: 400;
+  margin-bottom: 2rem;
+}
+
+.c4 {
+  width: 90%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c5 {
+  margin: 1rem;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 {
+  width: 20rem;
+  height: 7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
+
+.c6:hover {
+  border-color: #000;
 }
 
 <main
@@ -52,10 +104,124 @@ exports[`<Main /> should render the heading 1`] = `
   >
     Advanced Next
   </h1>
-  <h2
+  <p
     class="c3"
   >
-    A simple project starter to work with TypeScript, NextJS, ReactJS and Styled Components
-  </h2>
+    A advanced project starter to work with Next
+  </p>
+  <div
+    class="c4"
+  >
+    <a
+      class="c5"
+      href="https://nextjs.org/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        Next JS
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://reactjs.org/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        React JS
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://www.typescriptlang.org/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        TypeScript
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://jestjs.io/pt-BR/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        Jest
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://testing-library.com/docs/react-testing-library/intro/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        React Testing Library
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://eslint.org/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        ESLint
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://prettier.io/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        Prettier
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://github.com/typicode/husky"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        Husky
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://editorconfig.org/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        EditorConfig
+      </div>
+    </a>
+    <a
+      class="c5"
+      href="https://styled-components.com/"
+      target="_blank"
+    >
+      <div
+        class="c6"
+      >
+        Styled Components
+      </div>
+    </a>
+  </div>
 </main>
 `
