@@ -64,18 +64,18 @@ Your project will be ready to be developed with the best practices and the most 
 
 <div style="display: inline_block">
   <img align="center" alt="css" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/102/102735.png" />
-  &nbsp;
+  &nbsp; Husky improves your commits and more. You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push.
 </div>
 <br>
 
 <div style="display: inline_block">
   <img align="center" alt="css" height="40" width="40" src="https://editorconfig.org/logo.png" />
-  &nbsp;
+  &nbsp; EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project         consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles.            EditorConfig files are easily readable and they work nicely with version control systems.
 </div>
 <br>
 
 <div style="display: inline_block">
   <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
-  &nbsp;
+  &nbsp; Styled-Components allows you to write actual CSS code to style your components. It also removes the mapping between components and styles – using components as a low-     level styling construct could not be easier!
 </div>
 <br>
